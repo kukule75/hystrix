@@ -1,5 +1,5 @@
 zuul:
   routes:
     api:
-      path: /pay/**
+      path: /payb/**
       serviceId: pay-app
